@@ -1,6 +1,6 @@
 baseURL = 'https://karing.biz/'
 languageCode = 'en-us'
-title = 'get free vpn'
+title = 'karing.biz'
 theme='hugo-book'
 
 # Book configuration
