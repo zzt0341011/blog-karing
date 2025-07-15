@@ -1,41 +1,230 @@
----
-title: Introduction
-type: docs
----
-
-# Acerbo datus maxime
-
-{{< columns >}}
-## Astris ipse furtiva
-
-Est in vagis et Pittheus tu arge accipiter regia iram vocatur nurus. Omnes ut
-olivae sensit **arma sorori** deducit, inesset **crudus**, ego vetuere aliis,
-modo arsit? Utinam rapta fiducia valuere litora _adicit cursu_, ad facies
-
-<--->
-
-## Suis quot vota
-
-Ea _furtique_ risere fratres edidit terrae magis. Colla tam mihi tenebat:
-miseram excita suadent es pecudes iam. Concilio _quam_ velatus posset ait quod
-nunc! Fragosis suae dextra geruntur functus vulgata.
-{{< /columns >}}
+## Введение в Karing
 
 
-## Tempora nisi nunc
+[Karing](https://github.com/KaringX/karing) — это программное обеспечение VPN, основанное на ядре [Clash](https://github.com/fossabot/clash). Оно может изменить IP-адрес, который вы используете для доступа в интернет. Например, если в вашей стране не поддерживается [ChatGPT](https://chatgpt.com/), вы можете использовать это программное обеспечение. Karing похож на V2rayNG, [Sing-Box](https://sing-box.info/), Clash for Windows, Clash.Meta, [Hiddify](https://hiddify.me/), [V2Box](https://v2box.pro/), [Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118), [Stash](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349), [Surge](https://github.com/Jounce/Surge) ,[mahsang](https://mahsang.pro),и другие, но у него есть множество новых функций. Оно может скрывать вашу личность в интернете и работает быстрее, чем обычный VPN. Если вам нужен более стабильный и безопасный сетевой доступ, рекомендуется использовать платные сетевые узлы. Karing поддерживает почти все протоколы сетевого прокси, такие как Shadowrockets, Vmess, Vless, Reality, Trojan, [Hysteria2](https://github.com/missuo/Hysteria2) и другие.
 
-Lorem **markdownum** emicat gestu. Cannis sol pressit ducta. **Est** Idaei,
-tremens ausim se tutaeque, illi ulnis hausit, sed, lumina cutem. Quae avis
-sequens!
+## скачать Karing
 
-    var panel = ram_design;
-    if (backup + system) {
-        file.readPoint = network_native;
-        sidebar_engine_device(cell_tftp_raster,
-                dual_login_paper.adf_vci.application_reader_design(
-                graphicsNvramCdma, lpi_footer_snmp, integer_model));
-    }
+- [Скачайте версию для Android с GitHub](https://github.com/KaringX/karing/releases/tag/v1.0.27.353)
+- [Скачайте версию для Apple из App Store](https://apps.apple.com/us/app/karing/id6472431552)
 
-## Locis suis novi cum suoque decidit eadem
+## импортировать VPN-узел в Karing
 
-Idmoniae ripis, at aves, ali missa adest, ut _et autem_, et ab?
+- Учебник по импорту узлов в систему Karing для Windows
+- [Сначала скопируйте VPN-узел](https://getfreevpn.info/ru/docs/%D0%A3%D1%87%D0%B5%D0%B1%D0%BD%D0%B8%D0%BA/%D0%9F%D0%BE%D0%BB%D1%83%D1%87%D0%B8%D1%82%D0%B5-%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D1%8B%D0%B9-VPN-%D1%83%D0%B7%D0%B5%D0%BB/)
+
+![hiddify0003](https://getfreevpn.info/img/karing导入1.png)
+
+- Нажмите на ссылку "Добавить профиль"
+- Приведите примеры, пожалуйста, попробуйте скопировать
+
+```
+trojan://85f133142f04dbf6547da33895cfabb3@120.233.128.68:39001?security=tls&sni=120.233.128.68&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF3%7C%40stairnode
+ss://YWVzLTI1Ni1nY206ZHd6MUd0Rjc%3D@112.54.160.36:30232#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC5%7C%40stairnode
+hysteria2://e6d8d743-a9bc-48c9-be99-8f3cc94d16e1@138.2.11.148:10086?sni=ajp.pagate.top&insecure=1#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%AF%F0%9F%87%B5%20JP-138.2.11.148%3A10086
+trojan://85f133142f04dbf6547da33895cfabb3@113.99.140.184:39001?security=tls&sni=www.yrtok.com&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF7%7C%40stairnode
+trojan://85f133142f04dbf6547da33895cfabb3@113.99.140.184:39001?security=tls&sni=www.yrtok.com&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF4%7C%40stairnode
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzRFx1REQxMiBWTS1UQ1AtTkEgXHVEODNDXHVEREU4XHVEODNDXHVEREYzIENOLTE4My4yMzYuNTEuMzg6NDY5MjEiLA0KICAiYWRkIjogIjE4My4yMzYuNTEuMzgiLA0KICAicG9ydCI6ICI0NjkyMSIsDQogICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzRFx1REQxMiBWTS1UQ1AtTkEgXHVEODNDXHVEREVEXHVEODNDXHVEREYwIEhLLTQzLjI0Ny4xMzQuODU6NDcwMTAiLA0KICAiYWRkIjogIjQzLjI0Ny4xMzQuODUiLA0KICAicG9ydCI6ICI0NzAxMCIsDQogICJpZCI6ICJjYmZmYjgyNS05M2Q1LTRhMTktYWVkMC0wOTM2YTQ4Yzg0ZDMiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogImh0dHAiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
+trojan://Aimer@121.178.51.126:50000?security=tls&sni=epmk.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epmk.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#ICN
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkhLXHU5OTk5XHU2RTJGKG1pYmVpNzcuY29tIFx1N0M3M1x1OEQxRFx1ODI4Mlx1NzBCOVx1NTIwNlx1NEVBQikiLA0KICAiYWRkIjogIjEyMC4yMzIuMTUzLjYzIiwNCiAgInBvcnQiOiAiMzc4MDUiLA0KICAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiLyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
+hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@[2a0c:4ac1:8::1cb]:35000?sni=pichondan.com&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%A9%F0%9F%87%AA%20DE-%5B2a0c%3A4ac1%3A8%3A%3A1cb%5D%3A35000
+hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@[2a0c:4ac1:8::2ae]:35000?sni=pichondan.com&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%A9%F0%9F%87%AA%20DE-%5B2a0c%3A4ac1%3A8%3A%3A2ae%5D%3A35000
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6UVl5OGlYWkhBUW5Xbm1TVWwySjJt@87.251.79.34:20684#%E6%91%A9%E5%B0%94%E5%A4%9A%E7%93%A6%2BV2CROSS.COM
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlVTXHU3RjhFXHU1NkZEKG1pYmVpNzcuY29tIFx1N0M3M1x1OEQxRFx1ODI4Mlx1NzBCOVx1NTIwNlx1NEVBQikiLA0KICAiYWRkIjogIjE4My4yMzguOTAuOCIsDQogICJwb3J0IjogIjQ2OTIwIiwNCiAgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
+trojan://Aimer@188.164.159.98:2083?security=tls&sni=epmk.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epmk.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#SJC
+ss://YWVzLTI1Ni1nY206ZHd6MUd0Rjc%3D@120.233.128.98:30015#%F0%9F%87%A8%F0%9F%87%B3%20%E5%8F%B0%E6%B9%BE%7C%40stairnode
+trojan://Aimer@5.182.85.255:2096?security=tls&sni=epml.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epml.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#SJC
+hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@45.152.240.49:35000?sni=pichondan.com&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%A9%F0%9F%87%AA%20DE-45.152.240.49%3A35000
+hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@[2a0c:4ac1:8::121]:35000?sni=pichondan.com&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%A9%F0%9F%87%AA%20DE-%5B2a0c%3A4ac1%3A8%3A%3A121%5D%3A35000
+trojan://Aimer@ignacio.ns.cloudflare.com:443?security=tls&sni=epmk.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epmk.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%89
+trojan://Aimer@sage.ns.cloudflare.com:443?security=tls&sni=epmk.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epmk.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%89
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlVTXHU3RjhFXHU1NkZEKG1pYmVpNzcuY29tIFx1N0M3M1x1OEQxRFx1ODI4Mlx1NzBCOVx1NTIwNlx1NEVBQikiLA0KICAiYWRkIjogImlwLnNiIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogImM5ZGRiNDg5LTdiNWUtNDllZC04YjIxLTc0OWY0YTBlZDU2ZCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAidXNzaHMuYXRsZW4uZHBkbnMub3JnIiwNCiAgInBhdGgiOiAiL2M5ZGRiNDg5LTdiNWUtNDllZC04YjIxLTc0OWY0YTBlZDU2ZC12bWVzcyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
+trojan://Aimer@103.116.7.133:2083?security=tls&sni=epml.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epml.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#SJC
+hysteria2://e6d8d743-a9bc-48c9-be99-8f3cc94d16e1@129.146.241.150:10086?sni=aus.pagate.top&insecure=1#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%BA%F0%9F%87%B8%20US-129.146.241.150%3A10086
+vless://81f59e07-c8e2-4592-b322-ea7f91f457f6@zoomgov.vipren.biz.id:80?encryption=none&security=none&sni=zoomgov.vipren.biz.id&type=ws&host=zoomgov.vipren.biz.id&path=%2F104.248.145.216%3D443#%E9%A6%99%E6%B8%AF%28yudou123.top%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
+trojan://Aimer@31.43.179.60:2053?security=tls&sni=epmk.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epmk.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#SJC
+hysteria2://65a43b6e-19c5-4fab-b960-d110a07d66a4@209.141.47.127:3234?insecure=1#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%BA%F0%9F%87%B8%20US-209.141.47.127%3A3234
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlVTXHU3RjhFXHU1NkZEKG1pYmVpNzcuY29tIFx1N0M3M1x1OEQxRFx1ODI4Mlx1NzBCOVx1NTIwNlx1NEVBQikiLA0KICAiYWRkIjogIjE4My4yMzguOTAuOCIsDQogICJwb3J0IjogIjM5MDc2IiwNCiAgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
+trojan://Aimer@duke.ns.cloudflare.com:443?security=tls&sni=epml.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epml.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%89
+trojan://Aimer@46.254.92.142:2087?security=tls&sni=epml.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epml.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#SJC
+trojan://Aimer@188.164.159.234:2083?security=tls&sni=epml.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epml.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#SJC
+trojan://Aimer@188.164.159.18:443?security=tls&sni=epmk.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epmk.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#SJC
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1N0Y4RVx1NTZGRCh5dWRvdTc3LnRvcCBcdTczODlcdThDNDZcdTUxNERcdThEMzlcdTgyODJcdTcwQjkpIiwNCiAgImFkZCI6ICJpcC5zYiIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICJjOWRkYjQ4OS03YjVlLTQ5ZWQtOGIyMS03NDlmNGEwZWQ1NmQiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogInVzc2hzLmF0bGVuLmRwZG5zLm9yZyIsDQogICJwYXRoIjogIi9jOWRkYjQ4OS03YjVlLTQ5ZWQtOGIyMS03NDlmNGEwZWQ1NmQtdm1lc3MiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
+trojan://Aimer@112.162.203.5:50000?security=tls&sni=epml.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epml.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#ICN
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1N0Y4RVx1NTZGRCh5dWRvdTc3LnRvcCBcdTczODlcdThDNDZcdTUxNERcdThEMzlcdTgyODJcdTcwQjkpIiwNCiAgImFkZCI6ICJpcC5zYiIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICJjOWRkYjQ4OS03YjVlLTQ5ZWQtOGIyMS03NDlmNGEwZWQ1NmQiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogInVzc2hzLmF0bGVuLmRwZG5zLm9yZyIsDQogICJwYXRoIjogIi9jOWRkYjQ4OS03YjVlLTQ5ZWQtOGIyMS03NDlmNGEwZWQ1NmQtdm1lc3MiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAidXNzaHMuYXRsZW4uZHBkbnMub3JnIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
+trojan://Aimer@220.80.8.223:50000?security=tls&sni=epml.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epml.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#ICN
+hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@77.90.52.69:35000?sni=pichondan.com&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%A9%F0%9F%87%AA%20DE-77.90.52.69%3A35000
+trojan://Aimer@108.165.152.55:2096?security=tls&sni=epmk.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epmk.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#SJC
+hysteria2://dongtaiwang.com@45.129.2.108:50850?sni=www.bing.com&insecure=1#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%B7%F0%9F%87%BA%20RU-45.129.2.108%3A50850
+trojan://Aimer@192.200.160.169:2096?security=tls&sni=epmk.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epmk.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#SJC
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlVTXHU3RjhFXHU1NkZEKG1pYmVpNzcuY29tIFx1N0M3M1x1OEQxRFx1ODI4Mlx1NzBCOVx1NTIwNlx1NEVBQikiLA0KICAiYWRkIjogIjEyMC4xOTguNzEuMjE0IiwNCiAgInBvcnQiOiAiMzExODAiLA0KICAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
+trojan://85f133142f04dbf6547da33895cfabb3@203.156.253.11:39001?security=tls&sni=www.yrtok.com&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC3%7C%40stairnode
+trojan://Aimer@31.43.179.60:2053?security=tls&sni=epml.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epml.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#SJC
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlVTXHU3RjhFXHU1NkZEKG1pYmVpNzcuY29tIFx1N0M3M1x1OEQxRFx1ODI4Mlx1NzBCOVx1NTIwNlx1NEVBQikiLA0KICAiYWRkIjogImlwLnNiIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogImM5ZGRiNDg5LTdiNWUtNDllZC04YjIxLTc0OWY0YTBlZDU2ZCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAidXNzaHMuYXRsZW4uZHBkbnMub3JnIiwNCiAgInBhdGgiOiAiL2M5ZGRiNDg5LTdiNWUtNDllZC04YjIxLTc0OWY0YTBlZDU2ZC12bWVzcyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJ1c3Nocy5hdGxlbi5kcGRucy5vcmciLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
+trojan://Aimer@45.67.214.3:2096?security=tls&sni=epmk.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epmk.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#SJC
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzRFx1REQxMiBWTS1UQ1AtTkEgXHVEODNDXHVEREU4XHVEODNDXHVEREYzIENOLTEyMC4xOTguNzEuMjE0OjMxMTgwIiwNCiAgImFkZCI6ICIxMjAuMTk4LjcxLjIxNCIsDQogICJwb3J0IjogIjMxMTgwIiwNCiAgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
+hysteria2://dongtaiwang.com@108.181.5.130:4710?sni=apple.com&insecure=1#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%BA%F0%9F%87%B8%20US-108.181.5.130%3A4710
+trojan://Aimer@5.182.84.244:443?security=tls&sni=epmk.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epmk.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#SJC
+trojan://Aimer@103.116.7.100:2087?security=tls&sni=epml.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epml.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#SJC
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1N0Y4RVx1NTZGRCh5dWRvdTc3LnRvcCBcdTczODlcdThDNDZcdTUxNERcdThEMzlcdTgyODJcdTcwQjkpIiwNCiAgImFkZCI6ICIxMjAuMTk4LjcxLjIxNCIsDQogICJwb3J0IjogIjMxMTgwIiwNCiAgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
+trojan://Aimer@108.165.152.14:2096?security=tls&sni=epml.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epml.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#SJC
+trojan://Aimer@5.182.84.244:443?security=tls&sni=epml.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epml.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#SJC
+trojan://Aimer@167.68.4.10:2096?security=tls&sni=epml.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epml.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#SJC
+trojan://Aimer@arvind.ns.cloudflare.com:443?security=tls&sni=epml.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epml.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%89
+trojan://Aimer@45.134.21.8:2053?security=tls&sni=epmk.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epmk.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#AMS
+trojan://Aimer@112.162.203.5:50000?security=tls&sni=epmk.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epmk.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#ICN
+trojan://Aimer@46.254.92.142:2087?security=tls&sni=epmk.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epmk.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#SJC
+trojan://Aimer@141.11.203.191:8443?security=tls&sni=epml.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epml.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#SJC
+trojan://Aimer@92.243.74.115:443?security=tls&sni=epml.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epml.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#SJC
+trojan://Aimer@154.197.64.206:443?security=tls&sni=epml.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epml.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#SJC
+hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@206.71.158.40:35000?sni=pichondan.com&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%B3%F0%9F%87%B1%20NL-206.71.158.40%3A35000
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzRFx1REQxMiBWTS1UQ1AtTkEgXHVEODNDXHVEREU4XHVEODNDXHVEREYzIENOLTE4My4yMzguOTAuODozOTA3NiIsDQogICJhZGQiOiAiMTgzLjIzOC45MC44IiwNCiAgInBvcnQiOiAiMzkwNzYiLA0KICAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiLyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
+trojan://Aimer@108.165.152.55:2096?security=tls&sni=epml.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epml.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#SJC
+vless://c4ca05f0-1b67-4552-bd03-9d71945ddc3e@77.221.143.85:54231?encryption=none&security=reality&sni=dash.cloudflare.com&fp=firefox&pbk=4fJKg7LhM4N1J23P-YU2cJ4TPOsGVZinB6VTvmHE4Ec&sid=96ab5d73&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-RLT%20%F0%9F%87%B8%F0%9F%87%AA%20SE-77.221.143.85%3A54231
+trojan://Aimer@213.241.198.189:2053?security=tls&sni=epmk.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epmk.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#SJC
+trojan://Aimer@188.164.159.214:2083?security=tls&sni=epmk.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epmk.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#SJC
+trojan://Aimer@103.116.7.103:2083?security=tls&sni=epmk.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epmk.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#SJC
+trojan://Aimer@176.53.144.206:8443?security=tls&sni=epml.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epml.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#SJC
+vless://f341e22e-2192-4a1c-a848-7f42b719f4ca@zoomgov.vipren.biz.id:80?encryption=none&security=none&sni=zoomgov.vipren.biz.id&type=ws&host=zoomgov.vipren.biz.id&path=%2F163.47.9.27%3D8443#%E9%A6%99%E6%B8%AF%28yudou123.top%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
+trojan://Aimer@damien.ns.cloudflare.com:443?security=tls&sni=epml.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epml.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%89
+trojan://Aimer@arvind.ns.cloudflare.com:443?security=tls&sni=epmk.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epmk.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%89
+trojan://Aimer@45.67.215.217:2087?security=tls&sni=epmk.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epmk.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#SJC
+trojan://Aimer@188.164.159.234:2083?security=tls&sni=epmk.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epmk.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#SJC
+trojan://Aimer@188.164.159.185:8443?security=tls&sni=epml.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epml.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#SJC
+trojan://Aimer@188.164.159.74:8443?security=tls&sni=epml.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epml.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#SJC
+hysteria2://dongtaiwang.com@46.17.41.217:30033?sni=www.bing.com&insecure=1#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%B7%F0%9F%87%BA%20RU-46.17.41.217%3A30033
+trojan://Aimer@103.116.7.220:2096?security=tls&sni=epml.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epml.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#SJC
+trojan://Aimer@176.53.144.206:8443?security=tls&sni=epmk.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epmk.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#SJC
+trojan://Aimer@154.197.64.206:443?security=tls&sni=epmk.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epmk.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#SJC
+trojan://Aimer@45.150.115.195:2087?security=tls&sni=epmk.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epmk.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#SJC
+trojan://Aimer@188.164.159.214:2083?security=tls&sni=epml.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epml.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#SJC
+trojan://Aimer@duke.ns.cloudflare.com:443?security=tls&sni=epmk.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epmk.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%89
+trojan://Aimer@46.254.93.243:8443?security=tls&sni=epmk.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epmk.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#SJC
+trojan://Aimer@199.34.228.50:2053?security=tls&sni=epml.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epml.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#SJC
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlVTXHU3RjhFXHU1NkZEKG1pYmVpNzcuY29tIFx1N0M3M1x1OEQxRFx1ODI4Mlx1NzBCOVx1NTIwNlx1NEVBQikiLA0KICAiYWRkIjogIjE4My4yMzguOTAuOCIsDQogICJwb3J0IjogIjQ2OTIwIiwNCiAgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
+trojan://Aimer@103.116.7.100:2087?security=tls&sni=epmk.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epmk.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#SJC
+trojan://Aimer@31.43.179.27:443?security=tls&sni=epmk.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epmk.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#SJC
+trojan://Aimer@167.68.4.58:443?security=tls&sni=epml.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epml.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#SJC
+trojan://Aimer@188.164.159.98:2083?security=tls&sni=epml.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epml.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#SJC
+trojan://Aimer@167.68.4.223:2096?security=tls&sni=epml.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epml.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#SJC
+trojan://Aimer@167.68.4.223:2096?security=tls&sni=epmk.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epmk.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#SJC
+trojan://Aimer@209.94.90.87:2087?security=tls&sni=epmk.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epmk.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#SJC
+trojan://Aimer@154.219.5.44:2053?security=tls&sni=epmk.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epmk.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#SJC
+trojan://Aimer@103.116.7.133:2083?security=tls&sni=epmk.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epmk.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#SJC
+trojan://Aimer@45.134.21.8:2053?security=tls&sni=epml.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epml.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#AMS
+trojan://Aimer@209.94.90.87:2087?security=tls&sni=epml.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epml.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#SJC
+trojan://Aimer@135.84.74.254:2083?security=tls&sni=epmk.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epmk.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#SJC
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzRFx1REQxMiBWTS1UQ1AtTkEgXHVEODNDXHVEREU4XHVEODNDXHVEREYzIENOLTEyMC4yMzMuMjQ4LjEzMzozMDUxNCIsDQogICJhZGQiOiAiMTIwLjIzMy4yNDguMTMzIiwNCiAgInBvcnQiOiAiMzA1MTQiLA0KICAiaWQiOiAiMDJmMGQyZWMtMDg2Yy00Y2EyLWEyMjktN2VlNzVlOWE3M2I2IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
+trojan://Aimer@188.164.159.185:8443?security=tls&sni=epmk.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epmk.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#SJC
+trojan://Aimer@192.200.160.169:2096?security=tls&sni=epml.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epml.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#SJC
+trojan://Aimer@188.164.159.74:8443?security=tls&sni=epmk.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epmk.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#SJC
+trojan://2b1ed981-6547-4094-998b-06a3323d6f6c@120.233.44.201:21056?security=tls&sni=k14.tudou211.com&type=tcp&headerType=none#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+trojan://Aimer@199.34.228.178:8443?security=tls&sni=epml.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epml.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#SJC
+trojan://Aimer@103.116.7.103:2083?security=tls&sni=epml.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epml.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#SJC
+trojan://Aimer@213.241.198.189:2053?security=tls&sni=epml.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epml.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#SJC
+trojan://2b1ed981-6547-4094-998b-06a3323d6f6c@120.233.44.201:21003?security=tls&sni=k15.tudou211.com&type=tcp&headerType=none#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+trojan://2b1ed981-6547-4094-998b-06a3323d6f6c@120.233.44.201:21017?security=tls&sni=k16.tudou211.com&type=tcp&headerType=none#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+trojan://Aimer@108.165.152.14:2096?security=tls&sni=epmk.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epmk.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#SJC
+trojan://Aimer@45.67.215.217:2087?security=tls&sni=epml.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epml.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#SJC
+trojan://Aimer@45.150.115.195:2087?security=tls&sni=epml.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epml.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#SJC
+trojan://Aimer@135.84.74.254:2083?security=tls&sni=epml.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epml.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#SJC
+hysteria2://cf125f42-759d-4112-82c3-014d2ffcb1e7@185.85.242.177:1443?sni=gbr1.587458.xyz&insecure=0#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%AC%F0%9F%87%A7%20GB-185.85.242.177%3A1443
+trojan://Aimer@154.219.5.44:2053?security=tls&sni=epml.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epml.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#SJC
+trojan://Aimer@167.68.4.10:2096?security=tls&sni=epmk.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epmk.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#SJC
+trojan://Aimer@141.11.203.191:8443?security=tls&sni=epmk.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epmk.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#SJC
+vless://7248e825-887c-48b9-83bc-c26bc6392bf8@172.67.214.21:443?encryption=none&security=tls&sni=XxcvfGT678.191268.Xyz&type=ws&host=xxcvfgt678.191268.xyz&path=%2FW02wBrOOqlSUywV3ibrzzKXJGy3S1#%E7%BE%8E%E5%9B%BD%28yudou123.top%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
+vless://b6efaf7e-6099-457d-b4a2-b01dde469533@172.67.73.163:8080?encryption=none&security=none&sni=0q.rOk8rzMpV3.ZULair.Org.&type=ws&host=0q.rOk8rzMpV3.ZULair.Org.&path=%2F%3Fed%3D2048#%E7%BE%8E%E5%9B%BD%28yudou77.top%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
+vless://4ea841c1-0dc1-4563-9f47-deba8407cb4e@172.67.73.163:8080?encryption=none&security=none&sni=J9.oDOtZrHUoO.ZuLAIR.ORg.&type=ws&host=J9.oDOtZrHUoO.ZuLAIR.ORg.&path=%2F%3Fed%3D2048%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn#%E7%BE%8E%E5%9B%BD%28yudou123.top%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
+vless://c03d1bce-e54c-4cc0-a0fa-d83e22f15620@172.67.149.202:443?encryption=none&security=tls&sni=SSSSSX.222560.xyZ&type=ws&host=sssssx.222560.xyz&path=%2FRlwi0HmjSrgeQA6Y34zWUk6JUQ#%E7%BE%8E%E5%9B%BD%28yudou123.top%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlVTXHU3RjhFXHU1NkZEKG1pYmVpNzcuY29tIFx1N0M3M1x1OEQxRFx1ODI4Mlx1NzBCOVx1NTIwNlx1NEVBQikiLA0KICAiYWRkIjogIjE4My4yMzguOTAuOCIsDQogICJwb3J0IjogIjQ2OTIwIiwNCiAgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
+trojan://2b1ed981-6547-4094-998b-06a3323d6f6c@120.233.44.201:21179?security=tls&sni=k30.tudou211.com&type=tcp&headerType=none#%E7%BE%8E%E5%9B%BD%28yudou77.top%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
+hysteria2://50a88b3f@38.207.130.91:2308?sni=www.bing.com&insecure=1#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%AF%F0%9F%87%B5%20JP-38.207.130.91%3A2308
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzRFx1REQxMiBWTS1XUy1UTFMgXHVEODNDXHVEREU4XHVEODNDXHVEREU2IENBLTUxLjIyMi4xNTguMjQzOjg0NDMiLA0KICAiYWRkIjogIjUxLjIyMi4xNTguMjQzIiwNCiAgInBvcnQiOiAiODQ0MyIsDQogICJpZCI6ICI0YjBkZjIxMy0wZTU5LTRjMTYtYjM5MS1lMGQ5NzY4NmJmYTkiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi92bWVzcy8iLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAib3YtY2FuYWRhMy4wOXZwbi5jb20iLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
+vless://b6efaf7e-6099-457d-b4a2-b01dde469533@172.67.73.163:8080?encryption=none&security=none&sni=0q.rOk8rzMpV3.ZULair.Org.&type=ws&host=0q.rOk8rzMpV3.ZULair.Org.&path=%2F%3Fed%3D2048#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+trojan://2b1ed981-6547-4094-998b-06a3323d6f6c@120.233.44.201:21056?security=tls&sni=k14.tudou211.com&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD%7C%40stairnode
+vless://a4291a2a-d62c-4eb9-ac7a-ac7355d1eda2@172.67.220.32:443?encryption=none&security=tls&sni=RRRFGhY7.999836.xyZ&type=ws&host=rrrfghy7.999836.xyz&path=%2FMIrEVIUviSe8ydvnmRKWDa8#%E7%BE%8E%E5%9B%BD%28yudou123.top%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
+trojan://Aimer@45.80.209.25:81?security=tls&sni=epml.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epml.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#FRA
+trojan://Aimer@45.67.214.3:2096?security=tls&sni=epml.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epml.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#SJC
+vless://4ea841c1-0dc1-4563-9f47-deba8407cb4e@172.67.73.163:8080?encryption=none&security=none&sni=J9.oDOtZrHUoO.ZuLAIR.ORg.&type=ws&host=J9.oDOtZrHUoO.ZuLAIR.ORg.&path=%2F%3Fed%3D2048%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn#%E7%BE%8E%E5%9B%BD%28yudou123.top%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
+trojan://Aimer@167.68.4.58:443?security=tls&sni=epmk.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epmk.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#SJC
+trojan://Aimer@199.34.228.178:8443?security=tls&sni=epmk.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epmk.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#SJC
+trojan://Aimer@5.35.68.249:2053?security=tls&sni=epmk.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epmk.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#AMS
+trojan://Aimer@5.182.85.255:2096?security=tls&sni=epmk.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epmk.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#SJC
+trojan://Aimer@46.254.93.243:8443?security=tls&sni=epml.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epml.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#SJC
+trojan://Aimer@199.34.228.50:2053?security=tls&sni=epmk.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epmk.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#SJC
+hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@[2a14:3f87:f001:1a::a]:35000?sni=pichondan.com&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%B3%F0%9F%87%B1%20NL-%5B2a14%3A3f87%3Af001%3A1a%3A%3Aa%5D%3A35000
+trojan://Aimer@45.80.209.25:81?security=tls&sni=epmk.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epmk.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#FRA
+trojan://Aimer@31.43.179.27:443?security=tls&sni=epml.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epml.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#SJC
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlVTXHU3RjhFXHU1NkZEKG1pYmVpNzcuY29tIFx1N0M3M1x1OEQxRFx1ODI4Mlx1NzBCOVx1NTIwNlx1NEVBQikiLA0KICAiYWRkIjogIjE4My4yMzguOTAuOCIsDQogICJwb3J0IjogIjQ2OTIwIiwNCiAgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsDQogICJhaWQiOiAiNjQiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
+vless://0706a762-3fd5-4205-b5b9-42f746a3119f@104.26.14.85:8080?encryption=none&security=none&type=ws&host=WQ.R5Kt41PbPO.zuLAIR.orG.&path=%2F%3Fed%3D2048#%E7%BE%8E%E5%9B%BD%28yudou123.top%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
+hysteria2://dongtaiwang.com@46.29.163.171:30033?sni=www.bing.com&insecure=1#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%B7%F0%9F%87%BA%20RU-46.29.163.171%3A30033
+trojan://1b4c16925f934c57b954a9f0f23dea33@42.240.152.238:8842?security=tls&sni=brwx.spvpv.com&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD-%3E%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD_4
+vless://e4cbe8b8-37db-4aaa-8469-b84f34c51ebc@104.21.90.226:443?encryption=none&security=tls&sni=444RRrt5.7777155.xYZ&type=ws&host=444rrrt5.7777155.xyz&path=%2F6OWLjRc26b0nHYr5hYXD#%E7%BE%8E%E5%9B%BD%28yudou123.top%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
+trojan://1b4c16925f934c57b954a9f0f23dea33@42.240.152.238:8842?security=tls&sni=brwx.spvpv.com&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD-%3E%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlVTXHU3RjhFXHU1NkZEKG1pYmVpNzcuY29tIFx1N0M3M1x1OEQxRFx1ODI4Mlx1NzBCOVx1NTIwNlx1NEVBQikiLA0KICAiYWRkIjogIjE4My4yMzguOTAuOCIsDQogICJwb3J0IjogIjQ2OTIwIiwNCiAgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsDQogICJhaWQiOiAiNjQiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
+trojan://Aimer@5.35.68.249:2053?security=tls&sni=epml.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epml.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#AMS
+vless://fcbae65d-739f-40fb-847c-67a862ecb746@157.90.124.116:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=multiequipossa.com&fp=chrome&pbk=e1o1RxkM8nA3PpUoHK1mciI1L0J8emMaWq3bwILmIA0&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-RLT%20%F0%9F%87%A9%F0%9F%87%AA%20DE-157.90.124.116%3A443
+hysteria2://dongtaiwang.com@46.17.41.5:12904?sni=apple.com&insecure=1#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%B7%F0%9F%87%BA%20RU-46.17.41.5%3A12904
+trojan://2b1ed981-6547-4094-998b-06a3323d6f6c@120.233.44.201:21031?security=tls&sni=k54.tudou211.com&type=tcp&headerType=none#HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+trojan://2b1ed981-6547-4094-998b-06a3323d6f6c@120.233.44.201:21181?security=tls&sni=k31.tudou211.com&type=tcp&headerType=none#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29-clone
+trojan://2b1ed981-6547-4094-998b-06a3323d6f6c@120.233.44.201:21079?security=tls&sni=k32.tudou211.com&type=tcp&headerType=none#HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+trojan://Aimer@188.164.159.18:443?security=tls&sni=epml.ambercc.filegear-sg.me&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epml.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#SJC
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzRFx1REQxMiBWTS1UQ1AtTkEgXHVEODNDXHVEREU4XHVEODNDXHVEREYzIENOLTEyMC4yMzIuMTUzLjYzOjM3ODA1IiwNCiAgImFkZCI6ICIxMjAuMjMyLjE1My42MyIsDQogICJwb3J0IjogIjM3ODA1IiwNCiAgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1N0Y4RVx1NTZGRCh5dWRvdTc3LnRvcCBcdTczODlcdThDNDZcdTUxNERcdThEMzlcdTgyODJcdTcwQjkpIiwNCiAgImFkZCI6ICIxODMuMjM4LjkwLjgiLA0KICAicG9ydCI6ICI0NjkyMCIsDQogICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLA0KICAiYWlkIjogIjY0IiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
+vless://fa050497-fc2a-45ee-89c0-96670c4ecb65@104.21.70.32:443?encryption=none&security=tls&sni=pPP0.89890604.xYZ&type=ws&host=ppp0.89890604.xyz&path=%2F0USILhLWoWgQPuXTwt#%E7%BE%8E%E5%9B%BD%28yudou123.top%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOazlhc2dsRHpIemprdFZ6VGt2aGFB@arxfw2b78fi2q9hzylhn.freesocks.work:443#%E6%97%A5%E6%9C%AC%28yudou77.top%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1N0Y4RVx1NTZGRCh5dWRvdTc3LnRvcCBcdTczODlcdThDNDZcdTUxNERcdThEMzlcdTgyODJcdTcwQjkpIiwNCiAgImFkZCI6ICIxODMuMjM4LjkwLjgiLA0KICAicG9ydCI6ICIzOTA3NiIsDQogICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
+hysteria2://dongtaiwang.com@46.17.41.5:12904?sni=apple.com&insecure=1#%E7%A8%B3%E5%AE%9A%E6%A2%AF%E5%AD%90%EF%BC%9Aleeulen60%40gmail.com
+hysteria2://f869f5c5-18d0-4971-9d50-013ecef19daf@45.147.201.231:30076?obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ%3D%3D&insecure=1#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%B7%F0%9F%87%BA%20RU-45.147.201.231%3A30076
+hysteria2://dongtaiwang.com@46.17.41.5:12904?sni=apple.com&insecure=1#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%B7%F0%9F%87%BA%20RU-46.17.41.5%3A12904
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOazlhc2dsRHpIemprdFZ6VGt2aGFB@arxfw2b78fi2q9hzylhn.freesocks.work:443#JP%E6%97%A5%E6%9C%AC%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+hysteria2://5CBqBh6MeDq6GajcilBiDg%3D%3D@192.227.152.86:61001?sni=192-227-152-86.nip.io&insecure=1#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%BA%F0%9F%87%B8%20US-192.227.152.86%3A61001
+vless://a96cb093-b164-4bc6-bd27-deb0e385de07@eeeeeeeeed.999864.xyz:443?encryption=none&security=tls&sni=EEeeeEeEEd.999864.xyZ&type=ws&host=eeeeeeeeed.999864.xyz&path=%2F3zsSOohi9huFfjEPpIlRig3qizHXb#%E7%BE%8E%E5%9B%BD%28yudou123.top%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOazlhc2dsRHpIemprdFZ6VGt2aGFB@arxfw2b78fi2q9hzylhn.freesocks.work:443#%E6%97%A5%E6%9C%AC%28yudou123.top%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
+vless://fa050497-fc2a-45ee-89c0-96670c4ecb65@172.67.218.209:443?encryption=none&security=tls&sni=pPP0.89890604.xYZ&type=ws&host=ppp0.89890604.xyz&path=%2F0USILhLWoWgQPuXTwt#%E7%BE%8E%E5%9B%BD%28yudou123.top%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
+vless://288124da-0d68-42f4-9f48-70dc4dcc55a6@104.21.21.190:443?encryption=none&security=tls&sni=EerfgT6.890606.XYZ&type=ws&host=eerfgt6.890606.xyz&path=%2Fe49RZLgIb0TdfgF5HdHEIupMZeK#%E7%BE%8E%E5%9B%BD%28yudou77.top%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
+trojan://2b1ed981-6547-4094-998b-06a3323d6f6c@120.233.44.201:21118?security=tls&sni=k17.tudou211.com&type=tcp&headerType=none#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+vless://288124da-0d68-42f4-9f48-70dc4dcc55a6@104.21.21.190:443?encryption=none&security=tls&sni=EerfgT6.890606.XYZ&type=ws&host=eerfgt6.890606.xyz&path=%2Fe49RZLgIb0TdfgF5HdHEIupMZeK#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+trojan://bcc58e88-e147-11ec-b286-f23c91cfbbc9@83242d49-sy41s0-szh3gf-ggww.cm5.cnkuaishou.com:21233?security=tls&sni=83242d49-sy41s0-szh3gf-ggww.cm5.cnkuaishou.com&type=tcp&headerType=none#%E7%BE%8E%E5%9B%BD%28yudou123.top%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
+trojan://0de37cdc-abff-11ef-b7c6-f23c913c8d2b@57100505-sytz40-t389l0-1rsuw.cm5.cnkuaishou.com:27233?security=tls&sni=57100505-sytz40-t389l0-1rsuw.cm5.cnkuaishou.com&type=tcp&headerType=none#%E5%B9%BF%E4%B8%9C%E7%9C%81%E6%B1%95%E5%A4%B4%E5%B8%82%2B%E7%A7%BB%E5%8A%A8
+vless://288124da-0d68-42f4-9f48-70dc4dcc55a6@104.21.21.190:443?encryption=none&security=tls&sni=EerfgT6.890606.XYZ&type=ws&host=eerfgt6.890606.xyz&path=%2Fe49RZLgIb0TdfgF5HdHEIupMZeK#%E7%BE%8E%E5%9B%BD%28yudou123.top%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
+trojan://a698c4a6-c3c9-11ee-9693-f23c91cfbbc9@274ba953-sytz40-t09za6-1m0fq.cm5.cnkuaishou.com:27235?security=tls&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD-%3E%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD_8
+trojan://2b57ec48-0da4-11ef-8f35-f23c913c8d2b@916030df-sytz40-t16ejh-1rdqg.cm5.cnkuaishou.com:27235?security=tls&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD-%3E%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD_6
+trojan://2b57ec48-0da4-11ef-8f35-f23c913c8d2b@916030df-sytz40-t16ejh-1rdqg.cm5.cnkuaishou.com:27235?security=tls&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD-%3E%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD_6
+trojan://b2c6384c-f63d-11ec-b1b3-f23c91cfbbc9@c3fe9cc6-sytz40-thv9l4-1jbj0.cm5.cnkuaishou.com:27235?security=tls&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD-%3E%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD_7
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1NTJBMFx1NjJGRlx1NTkyNyh5dWRvdTEyMy50b3AgXHU3Mzg5XHU4QzQ2XHU1MTREXHU4RDM5XHU4MjgyXHU3MEI5KSIsDQogICJhZGQiOiAidjQwLmhlZHVpYW4ubGluayIsDQogICJwb3J0IjogIjMwODQwIiwNCiAgImlkIjogImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiYXBpMTAwLWNvcmUtcXVpYy1sZi5hbWVtdi5jb20iLA0KICAicGF0aCI6ICIvaW5kZXgiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
+trojan://a698c4a6-c3c9-11ee-9693-f23c91cfbbc9@274ba953-sytz40-t09za6-1m0fq.cm5.cnkuaishou.com:27235?security=tls&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD-%3E%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD_8
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1NTJBMFx1NjJGRlx1NTkyNyh5dWRvdTEyMy50b3AgXHU3Mzg5XHU4QzQ2XHU1MTREXHU4RDM5XHU4MjgyXHU3MEI5KSIsDQogICJhZGQiOiAiMTExLjI2LjEwOS43OSIsDQogICJwb3J0IjogIjMwODQwIiwNCiAgImlkIjogImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiYXBpMTAwLWNvcmUtcXVpYy1sZi5hbWVtdi5jb20iLA0KICAicGF0aCI6ICIvaW5kZXgiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
+trojan://a698c4a6-c3c9-11ee-9693-f23c91cfbbc9@274ba953-sytz40-t09za6-1m0fq.cm5.cnkuaishou.com:27235?security=tls&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD-%3E%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD_8
+trojan://2b57ec48-0da4-11ef-8f35-f23c913c8d2b@916030df-sytz40-t16ejh-1rdqg.cm5.cnkuaishou.com:27235?security=tls&type=tcp&headerType=none#%E5%B9%BF%E4%B8%9C%E7%9C%81%E6%B1%95%E5%A4%B4%E5%B8%82%2B%E7%A7%BB%E5%8A%A8
+trojan://2b57ec48-0da4-11ef-8f35-f23c913c8d2b@916030df-sytz40-t16ejh-1rdqg.cm5.cnkuaishou.com:27235?security=tls&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD-%3E%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD_6
+trojan://b2c6384c-f63d-11ec-b1b3-f23c91cfbbc9@c3fe9cc6-sytz40-thv9l4-1jbj0.cm5.cnkuaishou.com:27235?security=tls&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD-%3E%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD_7
+```
+
+![hiddify0003](https://getfreevpn.info/img/karing导入5.png)
+
+- Вставьте ссылку, введите имя
+
+![hiddify0003](https://getfreevpn.info/img/karing导入3.png)
+
+- Выберите узлы и подключитесь к сети.
+
+![hiddify0003](https://getfreevpn.info/img/karing导入4.png)
+
+- Вернитесь на главную страницу, нажмите кнопку и подключитесь к сети.
+
+
+
+![hiddify0003](https://getfreevpn.info/img/karing导入5.jpg)
+
+### Стабильные VPN-узлы из восьми стран – годовая подписка 10 USDT
+
+1. **Цена:** 10 USDT в год. Включает узлы из следующих стран: США, Франция, Великобритания, Германия, Болгария, Сингапур, Япония, Польша.
+2. **Адрес для оплаты:** `0x8d4744a8d6d617634d054edf9031bb5d77f2fd4b`
+   **Сеть:** Arbitrum One
+3. Сделайте скриншот страницы с подтверждением успешной оплаты и отправьте его на email: **[leeulen60@gmail.com](mailto:leeulen60@gmail.com)**
+4. После получения письма я вышлю вам VPN-узлы.
+
+
+
