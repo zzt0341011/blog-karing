@@ -1,0 +1,51 @@
+baseURL = 'https://getfreevpn.info/'
+languageCode = 'en-us'
+title = 'get free vpn'
+theme='hugo-book'
+
+# Book configuration
+disablePathToLower = true
+enableGitInfo = true
+
+# Needed for mermaid/katex shortcodes
+[markup]
+[markup.goldmark.renderer]
+  unsafe = true
+
+[markup.tableOfContents]
+  startLevel = 1
+
+[languages]
+[languages.zh]
+  languageName = 'Chinese'
+  contentDir = 'content.zh'
+  weight = 1
+
+[languages.en]
+  languageName = 'English'
+  contentDir = 'content.en'
+  weight = 3
+
+[languages.ru]
+  languageName = 'Russian'
+  contentDir = 'content.ru'
+  weight = 2
+
+
+
+[menu]
+# [[menu.before]]
+[[menu.after]]
+  name = "Buy Node For 10$"
+  url = "https://pay.v2box.pro"
+  weight = 20
+[params]
+# 黑暗模式
+  BookTheme = 'dark'
+# 留言板
+  BookComments = true
+# 翻译
+  BookTranslatedOnly = true
+
+
+
