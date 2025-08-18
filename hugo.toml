@@ -36,9 +36,10 @@ enableGitInfo = true
 [menu]
 # [[menu.before]]
 [[menu.after]]
-  name = "8国节点购买"
-  url = "https://bnb.lat/buy/3"
+  name = "15元1000G不限时机场"
+  url = "https://xn--mes995ajya725k.xyz/#/register?code=xFHkxqZv"
   weight = 20
+
 [params]
 # 黑暗模式
   BookTheme = 'dark'
