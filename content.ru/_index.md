@@ -17,7 +17,7 @@ Karing похож на V2rayNG, [Sing-Box](https://sing-box.info/zh), Clash for 
 |---|---|
 | Android | [karing-1.2.2.844-android](https://pan1.mene.lol/s/ReVTa) |
 | Windows | [karing-1.2.2.844-windows](https://pan1.mene.lol/s/JmKC0) |
-| iOS | [Использовать общий ID](https://karing.biz/docs/example/How-to-Download-the-Karing-Client-on-iPhone/) |
+| iOS | [Использовать общий ID](https://karing.biz/ru/docs/example/%D0%9A%D0%B0%D0%BA-%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%B8%D1%82%D1%8C-%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82-Karing-%D0%BD%D0%B0-iPhone/) |
 | Mac | [karing-1.2.2.844-mac](https://pan1.mene.lol/s/rK6sP) |
 
 ## Рекомендуемые провайдеры услуг
