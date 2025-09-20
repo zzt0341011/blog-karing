@@ -26,7 +26,7 @@ type: docs
 
 | 机场名称 | 价格 | 备注     |
 |------|----------|--------------|
-| [农夫山泉](https://www.nfsq.us/#/register?code=i1fXTMYk)    | 15元    | 200G不限时       |
+| [农夫山泉](https://07.nfsq.us/#/register?code=RaUmorb2) | 15元 | 200G不限时 |
 | [速达](https://mala.sudatech.store/register?code=3DYnOBtE)    | 15元   | 100G不限时       |
 | [魔戒](https://mojie.ws/#/register?code=BpCuERz0)    | 15元     | 130G不限时 |
 | [星轨](https://bd.srcloud.art/#/register?code=fvyGkr5j)    | 12元     | 60G不限时       |
