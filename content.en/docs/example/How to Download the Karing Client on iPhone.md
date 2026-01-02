@@ -34,24 +34,25 @@ https://id.ali-door.top/share/umoKGeJwOa
 
 ![karing-1004.jpg](https://karing.biz/img/karing-1005.jpg)
 
-### Recommended Providers
+## Recommended VPN Providers
 
-| Service Provider | Price | Notes |
-|---|---|---|
-| [Nongfu Spring](https://www.nfsq.us/#/register?code=i1fXTMYk) | 15 RMB | 200G unlimited time |
-| [Suda](https://mala.sudatech.store/register?code=3DYnOBtE) | 15 RMB | 100G unlimited time |
-| [The Lord of the Rings](https://mojie.ws/#/register?code=BpCuERz0) | 15 RMB | 130G unlimited time |
-| [Star Orbit](https://bd.srcloud.art/#/register?code=fvyGkr5j) | 12 RMB | 60G unlimited time |
-| [Mineral Water](https://5ldpe1hbmgj4ryv9.600mlt.cc/register?code=noYz548c) | 10 RMB | 80G unlimited time |
-| [ofopp](https://kk.ofopp.net/#/register?code=A2UmuXR8) | 38 RMB | 100G unlimited time |
-| [Pikachu](https://pkhub.net/#/register?code=A6O9EIj0) | 37 RMB | 200G unlimited time |
-| [Internet Express](https://wjkc66.vip?c=REZUOC) | 7 RMB | 20G unlimited time |
-| [Byte Dog](https://user.bytedog.icu/#/register?code=GXPuAhzt) | 21 RMB | 80G unlimited time |
-| [XLM](https://v2.ixlmo.net/index.php#/register?code=9XuwHmFC) | 22 RMB | 1200G/year |
-| [Free Cat](https://us.freecat.cc/register?code=czdF7PXY) | 50 RMB | 500G unlimited time |
-| [Baby Cloud](https://web1.bby011.com/#/register?code=8xTTMr2f) | 55 RMB | 600G unlimited time |
-| [New Google](https://qingse001.cc/#/register?code=Hw9HyaLY) | 20 RMB | 360G/6 months |
-| [Direct Connection](https://bnb.lat/buy/3) | 5 USDT | Unlimited data for 1 year |
+
+* The following providers charge based on data usage, and their websites include tutorials on installation and usage.
+* After purchasing data, there’s no time limit — you can use it until the data runs out.
+
+| Name                                                                          | Price   | Data | Number of Nodes |
+| :---------------------------------------------------------------------------- | :------ | :--- | :-------------- |
+| [Mojie](https://mojie.xn--yrs494l.com/register?aff=BpCuERz0)                              | 1 RMB   | 2G   | 48              |
+| [Pikachu](https://pkhub.net/#/register?code=A6O9EIj0)                         | 4.5 RMB | 10G  | 42              |
+| [NetExpress](https://wjkc66.vip?c=REZUOC)                                     | 7 RMB   | 20G  | 54              |
+| [Yifen](https://xn--4gqx1hgtfdmt.com/#/register?code=Aqr3awfK)                | 12 RMB  | 100G | 40              |
+| [Niubi](https://6666b.idsduf.com/#/login?code=sT9kLfc6)                       | 13 RMB  | 200G | 41              |
+| [Nong Fu](https://07.nfsq.us/#/register?code=i1fXTMYk)        | 15 RMB  | 200G | 32              |
+| [Flying Rabbit](https://www.xn--9kq10e0y7h.site/index.html?register=TtwX5VXt) | 30 RMB  | 100G | 80              |
+| [Baby Cloud](https://web1.bby011.com/#/register?code=8xTTMr2f)                | 55 RMB  | 600G | 64              |
+| [ofopp](https://kk.ofopp.net/#/register?code=A2UmuXR8)                        | 40 RMB  | 100G | 70              |
+| [Qiansu Cat](https://tmsreta.top/#/register?code=mmgD0jY7)                    | 68 RMB  | 512G | 46              |
+| [Naiyun](https://www.v2ny.me?path=register&code=05XjPGu5)                     | 98 RMB  | 280G | 140             |
 
 - leeulen60@gmail.com
 

@@ -33,23 +33,22 @@ https://id.ali-door.top/share/umoKGeJwOa
 
 ![karing-1004.jpg](https://karing.biz/img/karing-1005.jpg)
 
-### Рекомендуемые провайдеры
+## Рекомендованные сервисы
 
-| Поставщик услуг | Цена | Примечания |
-|---|---|---|
-| [Nongfu Spring](https://www.nfsq.us/#/register?code=i1fXTMYk) | 2USDT | 200G без ограничений по времени |
-| [Suda](https://mala.sudatech.store/register?code=3DYnOBtE) | 2USDT | 100G без ограничений по времени |
-| [The Lord of the Rings](https://mojie.ws/#/register?code=BpCuERz0) | 2USDT | 130G без ограничений по времени |
-| [Star Orbit](https://bd.srcloud.art/#/register?code=fvyGkr5j) | 2USDT | 60G без ограничений по времени |
-| [Mineral Water](https://5ldpe1hbmgj4ryv9.600mlt.cc/register?code=noYz548c) | 1USDT | 80G без ограничений по времени |
-| [ofopp](https://kk.ofopp.net/#/register?code=A2UmuXR8) | 5USDT | 100G без ограничений по времени |
-| [Pikachu](https://pkhub.net/#/register?code=A6O9EIj0) | 5USDT | 200G без ограничений по времени |
-| [Internet Express](https://wjkc66.vip?c=REZUOC) | 1USDT | 20G без ограничений по времени |
-| [Byte Dog](https://user.bytedog.icu/#/register?code=GXPuAhzt) | 3USDT | 80G без ограничений по времени |
-| [XLM](https://v2.ixlmo.net/index.php#/register?code=9XuwHmFC) | 3USDT | 1200G/1 год |
-| [Free Cat](https://us.freecat.cc/register?code=czdF7PXY) | 7USDT | 500G без ограничений по времени |
-| [Baby Cloud](https://web1.bby011.com/#/register?code=8xTTMr2f) | 8USDT | 600G без ограничений по времени |
-| [New Google](https://qingse001.cc/#/register?code=Hw9HyaLY) | 3USDT | 360G/6 месяцев |
-| [Direct Connection](https://bnb.lat/buy/3) | 5USDT | Безлимитный трафик на 1 год |
+* Следующие провайдеры взимают плату в зависимости от объёма трафика, на их сайтах есть инструкции по установке и использованию.
+* После покупки трафика нет ограничения по времени — можно использовать, пока не закончится трафик.
+
+| Название                                                                      | Цена     | Трафик | Кол-во узлов |
+| :---------------------------------------------------------------------------- | :------- | :----- | :----------- |
+| [Mojie](https://mojie.xn--yrs494l.com/register?aff=BpCuERz0)                              | 1 юань   | 2G     | 48           |
+| [Pikachu](https://pkhub.net/#/register?code=A6O9EIj0)                         | 4.5 юаня | 10G    | 42           |
+| [NetExpress](https://wjkc66.vip?c=REZUOC)                                     | 7 юаней  | 20G    | 54           |
+| [Yifen](https://xn--4gqx1hgtfdmt.com/#/register?code=Aqr3awfK)                | 12 юаней | 100G   | 40           |
+| [Niubi](https://6666b.idsduf.com/#/login?code=sT9kLfc6)                       | 13 юаней | 200G   | 41           |
+| [Flying Rabbit](https://www.xn--9kq10e0y7h.site/index.html?register=TtwX5VXt) | 30 юаней | 100G   | 80           |
+| [Baby Cloud](https://web1.bby011.com/#/register?code=8xTTMr2f)                | 55 юаней | 600G   | 64           |
+| [ofopp](https://kk.ofopp.net/#/register?code=A2UmuXR8)                        | 40 юаней | 100G   | 70           |
+| [Qiansu Cat](https://tmsreta.top/#/register?code=mmgD0jY7)                    | 68 юаней | 512G   | 46           |
+| [Naiyun](https://www.v2ny.me?path=register&code=05XjPGu5)                     | 98 юаней | 280G   | 140          |
 
 - leeulen60@gmail.com
