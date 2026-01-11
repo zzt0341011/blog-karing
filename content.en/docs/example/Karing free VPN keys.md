@@ -35,7 +35,6 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1RERFRlx1RDgzQ1x1RERGNSBcdTY1
 
 | Name | Price | Traffic | Nodes |
 | :--- | :--- | :--- | :--- |
-| [Speed Airport](https://jsjc.cfd/#/register?code=w7rsHzIL) | 8 CNY | 200 GB | 30 |
 | [North America Airport](https://www.northamericanairport-official-mirror.hair/#/register?code=j2rr2X4T) | 10 CNY | 1000 GB | 35 |
 | [996 Cloud](https://dash.996cloud.top/#/register?code=WO0oVqnE) | 12 CNY | 1 Year | 42 |
 | [One Cent](https://xn--4gqx1hgtfdmt.com/#/register?code=Aqr3awfK) | 12 CNY | 100 GB | 40 |

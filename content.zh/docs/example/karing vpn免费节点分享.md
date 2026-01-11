@@ -34,7 +34,6 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1RERFRlx1RDgzQ1x1RERGNSBcdTY1
 
 | 名 称 | 价 格 | 流 量 | 节点数 |
 | :--- | :--- | :--- | :--- |
-| [极速机场](https://jsjc.cfd/#/register?code=w7rsHzIL) | 8元 | 200G | 30个 |
 | [北美机场](https://www.northamericanairport-official-mirror.hair/#/register?code=j2rr2X4T) | 10元 | 1000G | 35个 |
 | [996云](https://dash.996cloud.top/#/register?code=WO0oVqnE) | 12元 | 1年 | 42个 |
 | [一分](https://xn--4gqx1hgtfdmt.com/#/register?code=Aqr3awfK) | 12元 | 100G | 40个 |
