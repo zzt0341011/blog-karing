@@ -50,7 +50,7 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1RERFRlx1RDgzQ1x1RERGNSBcdTY1
 | [speedy](https://cloud.speedypro.xyz/#/register?code=RTSPWuvE) | 15元 | 100G | 42个 |
 | [网际快车](https://wjkc66.vip?c=REZUOC) | 16元 | 100G | 54个 |
 | [赔钱机场](https://www.xn--mes358aby2apfg.site/register?code=OufF6cCL) | 19元 | 1000G | 37个 |
-| [一元中转](https://yyzz.ink/#/register?code=mqini9Q0) | 30元 | 200年 | 40个 |
+| [一元中转](https://yyzz.ink/#/register?code=mqini9Q0) | 30元 | 200G | 40个 |
 | [宝贝云](https://1.jnk.ink/xxPwfy) | 55元 | 600G | 64个 |
 | [千速猫](https://tmsreta.top/#/register?code=mmgD0jY7) | 68元 | 512G | 46个 |
 | [自由猫](https://us.freecat.cc/register?code=czdF7PXY) | 50元 | 500G | 90个 |
