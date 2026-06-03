@@ -49,8 +49,5 @@ https://id.ali-door.top/share/umoKGeJwOa
 | [飞兔](https://www.xn--9kq10e0y7h.site/index.html?register=TtwX5VXt) | 30元 | 100G | 80个 |
 | [农夫山泉](https://1.jnk.ink/i1fXTMYk)    | 45元   | 200G |40个|
 | [宝贝云](https://1.jnk.ink/xxPwfy) | 55元 | 600G | 64个 |
-| [千速猫](https://tmsreta.top/#/register?code=mmgD0jY7) | 68元 | 512G | 46个 |
-| [奈云](https://www.v2ny.me?path=register&code=05XjPGu5) | 98元 | 280G | 140个 |
-| [墨菲云](https://portal.mofeiyun.com/#/register?code=ugmD3VWT) | 0.5元 | 100G | 33个 |
 
 - leeulen60@gmail.com
