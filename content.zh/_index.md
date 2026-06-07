@@ -40,6 +40,7 @@ type: docs
 | [自由猫](https://1.jnk.ink/haO8Dr) | 89元 | 200G | 71个 |
 | [fscloud](https://1.jnk.ink/nKXcqQ) | 99元 | 1000G | 82个 |
 
+
 - leeulen60@gmail.com
 
 ## Karing VPN使用教程
