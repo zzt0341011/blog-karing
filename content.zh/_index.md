@@ -34,7 +34,7 @@ type: docs
 | [魔戒](https://1.jnk.ink/L4q20S) | 1元 | 1G | 30个 |
 | [网际快车](https://wjkc66.vip?c=REZUOC) | 7元 | 20G | 54个 |
 | [牛逼](https://1.jnk.ink/LYet7x) | 14元 | 200G | 31个 |
-| [飞兔]([https://1.jnk.ink/bbXkiN)) | 30元 | 100G | 80个 |
+| [飞兔]([https://1.jnk.ink/bbXkiN) | 30元 | 100G | 80个 |
 | [农夫山泉](https://1.jnk.ink/i1fXTMYk)    | 45元   | 200G |40个|
 | [宝贝云](https://1.jnk.ink/xxPwfy) | 55元 | 600G | 64个 |
 | [自由猫](https://1.jnk.ink/haO8Dr) | 89元 | 200G | 71个 |
