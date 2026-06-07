@@ -30,23 +30,14 @@ However, it has many new features, can hide your identity online, and is faster 
 
 | Name | Price | Traffic | Nodes |
 | :--- | :--- | :--- | :--- |
-| [North America Airport](https://www.northamericanairport-official-mirror.hair/#/register?code=j2rr2X4T) | 10 CNY | 1000 GB | 35 |
-| [996 Cloud](https://dash.996cloud.top/#/register?code=WO0oVqnE) | 12 CNY | 1 Year | 42 |
-| [One Cent](https://xn--4gqx1hgtfdmt.com/#/register?code=Aqr3awfK) | 12 CNY | 100 GB | 40 |
-| [Awesome Airport](https://6666b.idsduf.com/#/login?code=sT9kLfc6) | 13 CNY | 200 GB | 41 |
-| [Mojie Cloud](https://mojie.xn--yrs494l.com/register?aff=BpCuERz0) | 15 CNY | 130 GB | 48 |
-| [Speedy](https://cloud.speedypro.xyz/#/register?code=RTSPWuvE) | 15 CNY | 100 GB | 42 |
-| [Nongfu Spring Cloud](https://www.nfsq.us/#/register?code=i1fXTMYk) | 15 CNY | 200 GB | 32 |
-| [InterNet Express](https://wjkc66.vip?c=REZUOC) | 16 CNY | 100 GB | 54 |
-| [Loss-Making Airport](https://www.xn--mes358aby2apfg.site/register?code=OufF6cCL) | 19 CNY | 1000 GB | 37 |
-| [Kitty Cloud](https://kitty.su/#/register?code=FodKng1b) | 24 CNY | 1 Year | 42 |
-| [Fisher Cloud](https://cloudfisher.net/web/#/login?code=NatdlqpR) | 40 CNY | 300 GB | 32 |
-| [Ofopp Cloud](https://kk.ofopp.net/#/register?code=A2UmuXR8) | 40 CNY | 100 GB | 70 |
-| [Super Value Airport](https://cshjc.shop/register?code=GadIbTHc) | 51 CNY | 666 GB | 40 |
-| [Baby Cloud](https://web1.bby011.com/#/register?code=8xTTMr2f) | 55 CNY | 600 GB | 64 |
-| [Thousand-Speed Cat](https://tmsreta.top/#/register?code=mmgD0jY7) | 68 CNY | 512 GB | 46 |
-| [Nai Cloud](https://www.v2ny.me?path=register&code=05XjPGu5) | 98 CNY | 280 GB | 140 |
-| [Murphy Cloud](https://portal.mofeiyun.com/#/register?code=ugmD3VWT) | 0.5 CNY | 100 GB | 33 |
+| [Mojie](https://1.jnk.ink/L4q20S) | ¥1 | 1GB | 30 |
+| [Wangji Express](https://wjkc66.vip?c=REZUOC) | ¥7 | 20GB | 54 |
+| [Niubi](https://1.jnk.ink/LYet7x) | ¥14 | 200GB | 31 |
+| [Feitu](https://1.jnk.ink/bbXkiN) | ¥30 | 100GB | 80 |
+| [Nongfu Spring](https://1.jnk.ink/i1fXTMYk) | ¥45 | 200GB | 40 |
+| [Baobei Cloud](https://1.jnk.ink/xxPwfy) | ¥55 | 600GB | 64 |
+| [Freedom Cat](https://1.jnk.ink/haO8Dr) | ¥89 | 200GB | 71 |
+| [fscloud](https://1.jnk.ink/nKXcqQ) | ¥99 | 1000GB | 82 |
 
 
 - leeulen60@gmail.com
