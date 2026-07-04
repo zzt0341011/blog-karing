@@ -66,15 +66,17 @@ type: docs
 
 ![nongfu1009.jpg](https://karing.biz/img/nongfu1004.jpg)
 
-- 打开软件，点击我的配置
-- 点击右上角三个点，再点击添加配置，添加配置链接
-- 在下方空白处，粘贴订阅链接，点击右上角对号保存，点击确定
+- 打开软件，点击添加配置
+- 再点击，添加配置链接
+
+![nongfu1009.jpg](https://karing.biz/img/nongfu1005.jpg)
+
+- 在下方空白处，粘贴订阅链接，点击右上角对号保存
 
 ![nongfu1009.jpg](https://karing.biz/img/nongfu1006.jpg)
 
 
-- 保存完以后，如果程序自动退出
-- 则重新打开程序，点击开启系统代理
+- 保存完以后，点击红色按钮，开启代理
 
 ![nongfu1009.jpg](https://karing.biz/img/nongfu1007.jpg)
 
@@ -88,7 +90,7 @@ type: docs
 
 
 
-![hiddify0003](https://getfreevpn.info/img/karing导入1.png)
+
 
 
 - [苹果手机如何下载karing](https://karing.biz/zh/docs/example/%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E5%A6%82%E4%BD%95%E4%B8%8B%E8%BD%BDkaring/)
