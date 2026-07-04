@@ -32,7 +32,7 @@ type: docs
 | 名 称 | 价 格 | 流 量 | 节点数 |
 | :--- | :--- | :--- | :--- |
 | [魔戒](https://1.jnk.ink/L4q20S) | 1元 | 1G | 30个 |
-| [网际快车](https://wjkc66.vip?c=REZUOC) | 7元 | 20G | 54个 |
+| [网际快车](https://1.jnk.ink/ad2RVl) | 7元 | 20G | 54个 |
 | [牛逼](https://1.jnk.ink/LYet7x) | 14元 | 200G | 31个 |
 | [飞兔](https://1.jnk.ink/bbXkiN) | 30元 | 100G | 80个 |
 | [农夫山泉](https://1.jnk.ink/i1fXTMYk)    | 45元   | 200G |40个|
@@ -45,24 +45,24 @@ type: docs
 ## Karing VPN使用教程
 
 - 找到一个便宜点的机场
-- 最好是不限制时间的那种，比如，[农夫山泉](https://www.nfsq.us/#/register?code=i1fXTMYk)
+- 最好是不限制时间的那种，比如，[网际快车](https://1.jnk.ink/ad2RVl)
 - 打开首页以后，填入邮箱，密码进行注册
 
 ![nongfu1001.jpg](https://karing.biz/img/nongfu1001.jpg)
 
 - 注册好以后，登录
-- 点击购买订阅
+- 点击商店，购买订阅
 
 ![nongfu1009.jpg](https://karing.biz/img/nongfu1002.jpg)
 
 
-- 会看到很多套餐，找到15元200G，不限流量套餐
+- 会看到很多套餐，找到7元20G，不限流量套餐
 - 使用支付宝扫码付款
 
 ![nongfu1009.jpg](https://karing.biz/img/nongfu1003.jpg)
 
-- 付款成功以后，点击左上角仪表盘
-- 然后点击，一键订阅，复制链接
+- 付款成功以后，点击左上角使用教程
+- 然后点击，万能订阅，复制通用链接
 
 ![nongfu1009.jpg](https://karing.biz/img/nongfu1004.jpg)
 
@@ -92,7 +92,7 @@ type: docs
 
 
 - [苹果手机如何下载karing](https://karing.biz/zh/docs/example/%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E5%A6%82%E4%BD%95%E4%B8%8B%E8%BD%BDkaring/)
-- karing免费vpn节点分享
+- [karing免费vpn节点分享](https://karing.biz/zh/docs/example/karing-vpn%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB/)
 
 
 
