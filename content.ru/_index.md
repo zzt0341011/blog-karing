@@ -1,86 +1,94 @@
 ---
-title: Загрузка и установка Karing VPN
+title: Karing VPN — скачать и установить (Windows, macOS, Android, iOS)
+description: Скачайте Karing VPN бесплатно и узнайте, как установить и настроить его на Windows, macOS, Android и iOS. Karing — это быстрый прокси-клиент на базе ядра Clash с поддержкой Shadowsocks, VMess, VLESS, Reality, Trojan и Hysteria2.
+keywords:
+  - Karing VPN
+  - скачать Karing
+  - клиент Clash
+  - бесплатный VPN
+  - прокси-клиент
+  - VMess
+  - VLESS
+  - Reality
+  - Trojan
+  - Hysteria2
+  - разблокировать ChatGPT
 type: docs
 ---
 
-## Введение в Karing VPN
+## Что такое Karing VPN?
 
-[Karing](https://github.com/KaringX/karing) — это программное обеспечение VPN, основанное на ядре Clash, поддерживающее Windows, macOS и Android. Оно позволяет изменять IP-адрес, используемый для доступа в интернет. Например, если [ChatGPT](https://chatgpt.com/) недоступен в вашей стране, вы можете использовать это приложение.  
+[Karing](https://github.com/KaringX/karing) — это VPN-приложение на базе ядра Clash с поддержкой **Windows, macOS и Android**. Оно позволяет изменить IP-адрес, с которого вы выходите в интернет. Например, если [ChatGPT](https://chatgpt.com/) недоступен в вашей стране, Karing поможет получить к нему доступ. Karing похож на такие инструменты, как V2rayNG, [Sing-Box](https://sing-box.info/zh), Clash for Windows, [Clash.Meta](https://github.com/MetaCubeX/ClashMetaForAndroid), [Hiddify](https://hiddify.me/zh), [V2Box](https://v2box.pro/zh), [Shadowrocket](https://shadowrocket.ink/zh), [Stash](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349), [Surge](https://github.com/Jounce/Surge), [mahsang](https://mahsang.pro) и [nekobox](https://nekobox.info/zh), но обладает множеством новых функций, помогает скрыть вашу личность в сети и работает быстрее обычного **VPN**. Если вам нужна более стабильная и безопасная сеть, рекомендуем использовать платные прокси-узлы. Karing поддерживает почти все протоколы прокси: Shadowsocks, VMess, VLESS, Reality, Trojan и Hysteria2.
 
-Karing похож на V2rayNG, [Sing-Box](https://sing-box.info/ru), Clash for Windows, [Clash.Meta](https://github.com/MetaCubeX/ClashMetaForAndroid), [Hiddify](https://hiddify.me/ru), [V2Box](https://v2box.pro/ru), [Shadowrocket](https://shadowrocket.ink/ru), [Stash](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349), [Surge](https://github.com/Jounce/Surge), [mahsang](https://mahsang.pro) и [nekobox](https://nekobox.info/ru).  
+![Приложение Karing VPN, запущенное на мобильном устройстве](https://karing.biz/img/nongfu1009.jpg)
 
-Однако он имеет множество новых функций, позволяет скрывать вашу личность в интернете и работает быстрее, чем обычный **VPN**. Если вам нужна более стабильная и безопасная сеть, рекомендуется использовать платные прокси-узлы. Karing поддерживает почти все протоколы прокси, такие как Shadowrockets, Vmess, Vless, Reality, Trojan, Hysteria2 и другие.
+## Скачать Karing VPN
 
-![nongfu1009.jpg](https://karing.biz/img/nongfu1009.jpg)
-
-## Загрузка Karing VPN
-
-| Платформа | Ссылка для загрузки |
+| Платформа | Ссылка для скачивания |
 |---|---|
 | Android | [karing-1.2.2.844-android](https://pan1.mene.lol/s/ReVTa) |
 | Windows | [karing-1.2.2.844-windows](https://pan1.mene.lol/s/JmKC0) |
-| iOS | [Использовать общий ID](https://karing.biz/zh/docs/example/%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E5%A6%82%E4%BD%95%E4%B8%8B%E8%BD%BDkaring/) |
+| iOS | [Использовать общий Apple ID](https://karing.biz/zh/docs/example/%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E5%A6%82%E4%BD%95%E4%B8%8B%E8%BD%BDkaring/) |
 | macOS | [karing-1.2.2.844-mac](https://pan1.mene.lol/s/rK6sP) |
 
-### Рекомендованные аэропорты
+## Рекомендуемые прокси-сервисы (аэропорты)
 
-* Ниже перечисленные сервисы работают по модели оплаты за трафик. На их сайтах есть инструкции по установке и использованию программного обеспечения.
-* После покупки трафика срок действия не ограничен — он действителен до полного расходования.
-* Если сайт недоступен, скорее всего он заблокирован — просто выберите другой сервис.
+* Сервисы ниже оплачиваются по трафику; на каждом сайте есть собственная инструкция по использованию и установке.
+* После покупки пакета трафика ограничения по времени нет — пакет действует, пока не закончится трафик.
+* Если сайт не открывается, скорее всего, он заблокирован — просто попробуйте другой сайт.
 
 | Название | Цена | Трафик | Узлы |
 | :--- | :--- | :--- | :--- |
-| [Моцзе](https://1.jnk.ink/L4q20S) | 1 ¥ | 1 ГБ | 30 |
-| [Ванцзи Экспресс](https://wjkc66.vip?c=REZUOC) | 7 ¥ | 20 ГБ | 54 |
-| [Нюби](https://1.jnk.ink/LYet7x) | 14 ¥ | 200 ГБ | 31 |
-| [Фэйту](https://1.jnk.ink/bbXkiN) | 30 ¥ | 100 ГБ | 80 |
-| [Нунфу Спринг](https://1.jnk.ink/i1fXTMYk) | 45 ¥ | 200 ГБ | 40 |
-| [Баобэй Клауд](https://1.jnk.ink/xxPwfy) | 55 ¥ | 600 ГБ | 64 |
-| [Фридом Кэт](https://1.jnk.ink/haO8Dr) | 89 ¥ | 200 ГБ | 71 |
-| [fscloud](https://1.jnk.ink/nKXcqQ) | 99 ¥ | 1000 ГБ | 82 |
-
+| [Mojie](https://1.jnk.ink/L4q20S) | ¥1 | 1 ГБ | 30 |
+| [NetExpress](https://1.jnk.ink/ad2RVl) | ¥7 | 20 ГБ | 54 |
+| [Niubi](https://1.jnk.ink/LYet7x) | ¥14 | 200 ГБ | 31 |
+| [FeiTu](https://1.jnk.ink/bbXkiN) | ¥30 | 100 ГБ | 80 |
+| [Nongfu Spring](https://1.jnk.ink/i1fXTMYk) | ¥45 | 200 ГБ | 40 |
+| [Baobei Cloud](https://1.jnk.ink/xxPwfy) | ¥55 | 600 ГБ | 64 |
+| [Freedom Cat](https://1.jnk.ink/haO8Dr) | ¥89 | 200 ГБ | 71 |
+| [fscloud](https://1.jnk.ink/nKXcqQ) | ¥99 | 1000 ГБ | 82 |
 
 - leeulen60@gmail.com
 
-## Инструкция по использованию Karing VPN
+## Как пользоваться Karing VPN
 
-- Найдите доступного по цене прокси-провайдера  
-- Лучше выбрать того, у кого нет ограничения по времени, например, [Nongfu Spring](https://www.nfsq.us/#/register?code=i1fXTMYk)  
-- На главной странице введите email и пароль для регистрации  
+- Выберите недорогой прокси-сервис (аэропорт).
+- Лучше всего выбрать тариф без ограничения по времени — например, [NetExpress](https://1.jnk.ink/ad2RVl).
+- Откройте главную страницу, затем введите email и пароль для регистрации.
 
-![nongfu1001.jpg](https://karing.biz/img/nongfu1001.jpg)
+![Страница регистрации с полями email и пароля](https://karing.biz/img/nongfu1001.jpg)
 
-- После регистрации войдите в систему  
-- Нажмите, чтобы приобрести подписку  
+- После регистрации войдите в аккаунт.
+- Откройте магазин и купите подписку.
 
-![nongfu1009.jpg](https://karing.biz/img/nongfu1002.jpg)
+![Вход в аккаунт и открытие магазина подписок](https://karing.biz/img/nongfu1002.jpg)
 
-- Вы увидите множество тарифов. Найдите план **15 RMB / 200G без ограничений**  
-- Оплатите через QR-код Alipay  
+- Вы увидите несколько тарифов. Найдите тариф ¥7 / 20 ГБ без ограничения по времени.
+- Оплатите, отсканировав QR-код через Alipay.
 
-![nongfu1009.jpg](https://karing.biz/img/nongfu1003.jpg)
+![Выбор тарифа 20 ГБ и оплата через QR-код Alipay](https://karing.biz/img/nongfu1003.jpg)
 
-- После успешной оплаты нажмите «Панель управления» в верхнем левом углу  
-- Затем нажмите «Подписка в один клик» и скопируйте ссылку  
+- После оплаты нажмите на инструкцию в левом верхнем углу.
+- Затем нажмите «Универсальная подписка» и скопируйте общую ссылку на подписку.
 
-![nongfu1009.jpg](https://karing.biz/img/nongfu1004.jpg)
+![Копирование универсальной ссылки на подписку со страницы инструкции](https://karing.biz/img/nongfu1004.jpg)
 
-- Откройте программу, нажмите **Мои конфигурации**  
-- Нажмите три точки в верхнем правом углу, затем «Добавить конфигурацию» и вставьте ссылку на подписку  
-- Сохраните, нажав галочку в правом верхнем углу, затем подтвердите  
+- Откройте приложение и нажмите «Добавить конфигурацию».
+- Затем нажмите «Добавить конфигурацию по ссылке».
 
-![nongfu1009.jpg](https://karing.biz/img/nongfu1006.jpg)
+![Добавление новой конфигурации по ссылке в Karing](https://karing.biz/img/nongfu1005.jpg)
 
-- После сохранения, если программа закрылась автоматически  
-- Откройте её снова и включите **Системный прокси**  
+- Вставьте ссылку на подписку в пустое поле и нажмите галочку в правом верхнем углу, чтобы сохранить.
 
-![nongfu1009.jpg](https://karing.biz/img/nongfu1007.jpg)
+![Вставка ссылки на подписку и сохранение конфигурации](https://karing.biz/img/nongfu1006.jpg)
 
-- Нажмите стрелку в правом нижнем углу, чтобы выбрать сервер  
+- После сохранения нажмите красную кнопку, чтобы включить прокси.
 
-![nongfu1009.jpg](https://karing.biz/img/nongfu1008.jpg)
+![Включение прокси Karing красной кнопкой](https://karing.biz/img/nongfu1007.jpg)
 
-![hiddify0003](https://getfreevpn.info/img/karing导入1.png)
+- Нажмите стрелку в правом нижнем углу, чтобы выбрать сервер.
 
-- [Как скачать Karing на iPhone](https://karing.biz/ru/docs/example/%D0%9A%D0%B0%D0%BA-%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%B8%D1%82%D1%8C-%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82-Karing-%D0%BD%D0%B0-iPhone/)
-- Бесплатный VPN-сервер Karing для совместного использования узлов
+![Выбор прокси-сервера в Karing](https://karing.biz/img/nongfu1008.jpg)
+
+- [Как скачать Karing на iPhone](https://karing.biz/zh/docs/example/%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E5%A6%82%E4%BD%95%E4%B8%8B%E8%BD%BDkaring/)
+- [Бесплатные узлы Karing VPN](https://karing.biz/zh/docs/example/karing-vpn%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB/)
