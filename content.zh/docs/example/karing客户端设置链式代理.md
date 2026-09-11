@@ -58,6 +58,8 @@ X-HWID、解密密码、过滤、保留机场分流规则、下载通道等选�
 代理服务商，按国家/地区选购一条"静态 ISP 代理"，购买前一般可以先选代理类型（单 ISP、
 双 ISP 或原始 IP）、使用时长（比如 7 天、14 天、30 天不等），再按国家/地区挑选具体线路：
 
+- [点击购买住宅ip](https://rarecloud.io/clients/aff_redirect.php?aff=738&to=https%3A%2F%2Fconsole.rarecloud.io%2Fproxies%2Fisp%2Forder%2F&sig=c75f6fcea77050adab91341ab052ce129f73e6f51bf6ce26ade55b78c30d6805)
+
 ![住宅 IP 代理服务商的选购页面，按国家/地区列出可购买的线路](https://karing.biz/img/karing-lian-1005.jpg)
 
 下单成功之后，一般还能在管理后台进一步设置这条线路的细节，比如指定代理地区/ASN、
