@@ -1,4 +1,4 @@
-## The nodes are sourced from the internet, update date: 2026-09-11
+## The nodes are sourced from the internet, update date: 2026-09-22
 
   - Click the 'Add Configuration File' button
 
