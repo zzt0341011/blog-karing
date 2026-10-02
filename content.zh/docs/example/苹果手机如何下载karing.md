@@ -4,18 +4,21 @@
 
 ![karing-1004.jpg](https://karing.biz/img/karing-1004.jpg)
 
-### 海外共享苹果账号--最后更新时间：2026年8月26日
+### 海外共享苹果账号--最后更新时间：2026年10月02日
 
 - 友情提示，有些id可能不能使用，更换即可
 - 下载完应用以后，请马上退出苹果账号
 - 请务必登录苹果商店，不要在设置里面登录
 
-| 账号 | 密码 |
-|------|------|
-| PaulEnrique1198@outlook.com | PQd1vNH17Y |
-| WillaJaiden9521@outlook.com | 4vp2bpHmbN |
-| TheaCrew5195@outlook.com | FfyEwP6ZG3 |
-| david7zksmunoz@hotmail.com | TzTx3!zd |
+...
+15994156588@163.com ---- SUEuw7tKcE
+13999501997@163.com ---- Yutp577w8Y
+15906149988@163.com ---- SAPgcuG2Hr
+tieshamorwaywi6420@gmail.com ---- 6ZRcWustJ4
+david7zksmunoz@hotmail.com ---- TzTx3!zd
+jy359840651@163.com ---- Dd1927013
+18975171775@163.com ---- 9N45CKGCgT
+...
 
 ### 使用方法看图
 
