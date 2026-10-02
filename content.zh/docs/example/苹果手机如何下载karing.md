@@ -10,7 +10,7 @@
 - 下载完应用以后，请马上退出苹果账号
 - 请务必登录苹果商店，不要在设置里面登录
 
-...
+```
 15994156588@163.com ---- SUEuw7tKcE
 13999501997@163.com ---- Yutp577w8Y
 15906149988@163.com ---- SAPgcuG2Hr
@@ -18,7 +18,7 @@ tieshamorwaywi6420@gmail.com ---- 6ZRcWustJ4
 david7zksmunoz@hotmail.com ---- TzTx3!zd
 jy359840651@163.com ---- Dd1927013
 18975171775@163.com ---- 9N45CKGCgT
-...
+```
 
 ### 使用方法看图
 
