@@ -1,5 +1,5 @@
 
-## Узел получен из сети, дата обновления:02.10.2026
+## Узел получен из сети, дата обновления:14.10.2026
 
   - Нажмите кнопку «Добавить файл конфигурации»
 
@@ -9,17 +9,16 @@
 * Список узлов
 
 ```
-hysteria2://C0DD7bgChaltqnh%2FT2az6ijM@193.122.115.52:20000?sni=rmgyvpn.rest&obfs=salamander&obfs-password=C0DD7bgChaltqnh%2FT2az6ijM&insecure=0#KR%E9%9F%A9%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@129.211.188.184:8443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=unsafe&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws#HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-vless://92d67828-4c56-4795-af5a-f387651380dc@trackydev.site:443?encryption=none&security=tls&sni=trackydev.site&fp=chrome&type=ws&host=trackydev.site&path=%2F#%E7%BE%8E%E5%9B%BD%2B%E6%95%99%E8%82%B2%E7%BD%91
-vless://6c713691-3ca2-4446-ad25-113d1bed6b03@ee10.zazazuza.ru:8443?encryption=none&security=tls&sni=fdghyt.com&alpn=http%2F1.1&fp=chrome&type=ws&host=fdghyt.com&path=%2Fvpn-wss%2Ffluxor%2F59011%2F#%E4%BF%9D%E5%8A%A0%E5%88%A9%E4%BA%9A%2BV2CROSS.COM
-hysteria2://5d0a6445-a30d-4522-bb1f-94f1d3ad63be@rb.mangshe.xyz:2060?sni=127.0.0.1&insecure=1#%E5%9C%9F%E8%80%B3%E5%85%B6%2BV2CROSS.COM
-hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.127.143:8443?sni=hop-germany-september.dynuddns.com&insecure=1#%F0%9F%87%A9%F0%9F%87%AA%20%E5%BE%B7%E5%9B%BD%20%7C%20DEU
-vless://b1c31d36-c6b5-414b-88d2-9e24e7bfcca3@150.241.101.185:443?encryption=none&security=tls&sni=www.nihaoyun.top&fp=chrome&type=ws&host=www.nihaoyun.top&path=%2F#%F0%9F%87%AA%F0%9F%87%AA%20%E7%88%B1%E6%B2%99%E5%B0%BC%E4%BA%9A%20%7C%20EST
-vless://b1c31d36-c6b5-414b-88d2-9e24e7bfcca3@5.45.107.150:8443?encryption=none&security=tls&sni=www.nihaoyun.top&fp=chrome&type=ws&host=www.nihaoyun.top&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20%E5%BE%B7%E5%9B%BD%20%7C%20DEU
-vless://b1c31d36-c6b5-414b-88d2-9e24e7bfcca3@109.172.8.48:8443?encryption=none&security=tls&sni=www.nihaoyun.top&fp=chrome&type=ws&host=www.nihaoyun.top&path=%2F#%F0%9F%87%A6%F0%9F%87%B9%20%E5%A5%A5%E5%9C%B0%E5%88%A9%20%7C%20AUT
-vless://b1c31d36-c6b5-414b-88d2-9e24e7bfcca3@161.35.192.122:443?encryption=none&security=tls&sni=www.nihaoyun.top&fp=chrome&type=ws&host=www.nihaoyun.top&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20%E5%BE%B7%E5%9B%BD%20%7C%20DEU
-vless://b1c31d36-c6b5-414b-88d2-9e24e7bfcca3@109.172.8.73:443?encryption=none&security=tls&sni=www.nihaoyun.top&fp=chrome&type=ws&host=www.nihaoyun.top&path=%2F#%F0%9F%87%A6%F0%9F%87%B9%20%E5%A5%A5%E5%9C%B0%E5%88%A9%20%7C%20AUT
+vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?encryption=none&security=tls&sni=dey.lnmarketplace.net&fp=chrome&type=xhttp&host=dey.lnmarketplace.net&path=%2Fkavir&mode=stream-one#%F0%9F%87%A9%F0%9F%87%AADE%E5%BE%B7%E5%9B%BD%E4%B8%A8yoyapai.com
+vless://3536e1fa-0850-44d1-b123-925ce12476cf@[2a14:3f87:f001:46::a]:443?encryption=none&security=tls&sni=dey.lnmarketplace.net&alpn=h2&fp=firefox&type=xhttp&host=dey.lnmarketplace.net&path=%2Fkavir&mode=stream-one&extra=%7B%22noGRPCHeader%22%3Atrue%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%226%22%2C%22hKeepAlivePeriod%22%3A12%7D%7D#NL%E8%8D%B7%E5%85%B0%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+hysteria2://f83ce3c4-07d9-4895-bd14-cb74abbcab37@finkawwwbroy5.qcloud.surf:20326?sni=finkawwwbroy5.qcloud.surf&insecure=1#%E5%B7%B4%E8%A5%BF%2BV2CROSS.COM
+vless://9c104116-b231-4626-94cb-6d8fc4d2b000@50.7.87.122:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=edge-fr.extazy.net&fp=chrome&pbk=ygxQyBcJzlLgpSl3MCRDDiFET4TT-3wxa4GdG1obkCY&sid=ba4b2afa9e7193ea&type=tcp&headerType=none#%E7%BE%8E%E5%9B%BD%2BFDC%E8%8A%9D%E5%8A%A0%E5%93%A5%E6%9C%BA%E6%88%BF
+socks://Og%3D%3D@101.36.104.46:10808#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+vless://3536e1fa-0850-44d1-b123-925ce12476cf@[2a14:3f87:f001:46::a]:443?encryption=none&security=tls&sni=dey.lnmarketplace.net&alpn=h2&fp=chrome&type=xhttp&host=dey.lnmarketplace.net&path=%2Fkavir&mode=stream-one#FR%E6%B3%95%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?encryption=none&security=tls&sni=dey.lnmarketplace.net&alpn=h2&type=xhttp&host=dey.lnmarketplace.net&path=%2Fkavir&mode=stream-one&extra=%7B%22noGRPCHeader%22%3Atrue%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%226%22%2C%22hKeepAlivePeriod%22%3A12%7D%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%28WindowsNT10.0%3BWin64%3Bx64%29AppleWebKit%2F537.36%28KHTML%2ClikeGecko%29Chrome%2F101.0.4951.67Safari%2F537.36%22%7D%7D#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+hysteria2://b42d90fa667942aebc734d60@137.23.2.56:20000?sni=rmgyvpn.rest&obfs=salamander&obfs-password=b42d90fa667942aebc734d60&insecure=0#AU%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+hysteria2://usqmqUKJFIlCmvkCNSY64L3k@8.209.247.109:443?sni=bing.com&insecure=1#hysteria2-1700749603
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-au-001.fastervpn.world:443?sni=vpn-au-001.fastervpn.world&insecure=1#hysteria2-1561765064
 ```
 
   - Скопируйте содержимое файла и импортируйте его в программу для использования
