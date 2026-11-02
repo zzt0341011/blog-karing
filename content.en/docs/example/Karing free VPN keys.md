@@ -1,4 +1,4 @@
-## The nodes are sourced from the internet, update date: 2026-10-22
+## The nodes are sourced from the internet, update date: 2026-11-02
 
   - Click the 'Add Configuration File' button
 
@@ -9,16 +9,15 @@
 
 
 ```
-vless://8d42d29a-ed53-4684-a9ff-6b33826149de@172.67.73.213:443?encryption=none&security=tls&sni=aio.eth0.dpdns.org&fp=unsafe&type=ws&host=aio.eth0.dpdns.org&path=%2Faioproxybot%2F94.23.144.99-2053#%F0%9F%87%AB%F0%9F%87%B7FR_33%7C359KB%2Fs%7CM003-260806%20%5B4ed2f3bd6bda%5D
-trojan://e26a229d-e8f2-4ff9-8c7d-58a9d83ee437@45.32.52.173:8886?security=tls&sni=45.32.52.173&fp=chrome&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5JP_31%7C602KB%2Fs%7CC001-260618%20%5B4feb6ab85e31%5D
-socks://dGVzdDEyMzp0ZXN0MTIz@185.145.99.41:1080#%F0%9F%87%B3%F0%9F%87%B1NL_241%7C538KB%2Fs%7CS001-260618%20%5B0d9946ff95f6%5D
-vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?encryption=none&security=tls&sni=dey.lnmarketplace.net&alpn=h2&fp=chrome&type=xhttp&path=%2Fkavir&mode=stream-one#%F0%9F%87%B3%F0%9F%87%B1NL_191%7C76KB%2Fs%7CB007-260618%20%5B7e573bb6c5e8%5D
-socks://Og%3D%3D@113.22.224.63:1083#%F0%9F%87%BB%F0%9F%87%B3VN_2%7C133KB%2Fs%7CP002-260618%20%5B8f1a438e454a%5D
-socks://ODg4ODo4ODg4@47.236.168.243:1080#%F0%9F%87%B8%F0%9F%87%ACSG_101%7C671KB%2Fs%7CR002-260618%20%5B8f59646c50bc%5D
-hysteria2://f5f0babe-aea2-4f07-a1fc-3c9820253f49@jp1.frnhk.xyz:9443?sni=jp1.frnhk.xyz&insecure=1#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%20%7C%20JPN
-vless://9c794bb7-54fe-4acd-844a-a26209af36c3@195.58.134.26:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=login.mskvibe.fyi&fp=chrome&pbk=13nLTYkdBEFR-A4CfK2beOx-5LKEsXh1QHPq8Kt52BQ&sid=7271129440ade8fa&type=tcp&headerType=none&host=login.mskvibe.fyi#%F0%9F%87%AC%F0%9F%87%A7%20%E8%8B%B1%E5%9B%BD%20%7C%20GBR
-vless://0b418782-e023-447e-ba99-e66b84ff118d@50.7.245.204:2093?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=C_GA8wVjeLmyqLK6em5OHn4WPlsbndA-RyvyNU1aGFM&sid=8a9725533854a7e8&type=tcp&headerType=none&host=www.apple.com#%F0%9F%87%A8%F0%9F%87%A6%20%E5%8A%A0%E6%8B%BF%E5%A4%A7%20%7C%20CAN
-trojan://28c4a59d-c2a0-4d6c-ba7d-db6a354990de@tjhg.m2k699.com:24999?security=tls&sni=www.itunes.com&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD%20%7C%20KOR
+hysteria2://69e41e64-a832-471a-b740-94577ca85520@217.60.73.56:443?sni=forshynewh.duckdns.org&insecure=1#%E4%BC%8A%E6%9C%97%2BV2CROSS.COM
+hysteria2://69e41e64-a832-471a-b740-94577ca85520@forshynewh.duckdns.org:443?sni=forshynewh.duckdns.org#%E4%BC%8A%E6%9C%97%2BV2CROSS.COM
+ss://YWVzLTI1Ni1nY206NmxiOXdyNGlic3BibDAyMg@b2friday.buzrel.ir:443?#%F0%9F%87%AE%F0%9F%87%B7%20%E4%BC%8A%E6%9C%97%20%7C%20IRN
+vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@201.51.5.181:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=pkg-77.topp-con.xyz&fp=chrome&pbk=LEziyH-E4k9hehGRJkVi1FadVObB_NZJy8U7oUCVWXU&sid=b9120cd53ffd7bba&type=tcp&headerType=none&host=pkg-77.topp-con.xyz&path=%2F#%F0%9F%87%AB%F0%9F%87%B7%20%E6%B3%95%E5%9B%BD%20%7C%20FRA
+vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@201.51.4.89:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cache-89.topp-con.xyz&fp=chrome&pbk=LEziyH-E4k9hehGRJkVi1FadVObB_NZJy8U7oUCVWXU&sid=b9120cd53ffd7bba&type=tcp&headerType=none&host=cache-89.topp-con.xyz&path=%2F#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20%7C%20USA
+hysteria2://IR5Y0cfJV2A2lpHbNIeLwNTU@47.129.112.129:20000?sni=sg-transit-3.nebulacloud.win&insecure=1#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%20%7C%20HKG
+vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@31.77.13.22:2063?encryption=none&flow=xtls-rprx-vision&security=reality&sni=rusbid.de&fp=chrome&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&type=tcp&headerType=none&host=rusbid.de&path=%2F#%F0%9F%87%A8%F0%9F%87%BF%20%E6%8D%B7%E5%85%8B%20%7C%20CZE
+vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@cz-prg.dontblockmepls.com:2063?encryption=none&flow=xtls-rprx-vision&security=reality&sni=rusbid.de&fp=firefox&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&type=tcp&headerType=none&host=rusbid.de&path=%2F#%F0%9F%87%A8%F0%9F%87%BF%20%E6%8D%B7%E5%85%8B%20%7C%20CZE
+vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@72.56.11.99:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=updates-94.topp-con.xyz&fp=chrome&pbk=OQu-e59wDwOSwiBBawquNAPhg8Li1hmioWU2Up1TGDw&sid=c33807f76b689c9a&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%B7%20%E6%B3%95%E5%9B%BD%20%7C%20FRA
 ```
   - Copy the file content and import it into the software to use it
 
