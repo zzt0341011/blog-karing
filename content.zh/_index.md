@@ -6,7 +6,7 @@ type: docs
 ## Karing VPN简介
 
 
-[Karing](https://github.com/KaringX/karing)是一款VPN软件，基于Clash核心，支持windows、mac、安卓。可以更改您用于访问互联网的IP地址。例如，如果您所在的国家不支持[ChatGPT](https://chatgpt.com/)，可以使用这款软件。Karing类似于V2rayNG、[Sing-Box](https://sing-box.info/zh)、Clash for Windows、[Clash.Meta](https://github.com/MetaCubeX/ClashMetaForAndroid)、[Hiddify](https://hiddify.me/zh)、[V2Box](https://v2box.pro/zh)、[Shadowrocket](https://shadowrocket.ink/zh)、[Stash](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349)、[Surge](https://github.com/Jounce/Surge)、[mahsang](https://mahsang.pro)、[nekobox](https://nekobox.info/zh)等，但它具有许多新功能，可以在互联网上隐藏您的身份，速度比**VPN**更快。如果您需要更稳定和安全的网络环境，请使用付费网络节点。Karing几乎支持所有网络代理协议，如Shadowrockets、Vmess、Vless、Reality、Trojan、Hysteria2等协议
+[Karing](https://github.com/KaringX/karing)是一款VPN软件，基于Clash核心，支持windows、mac、安卓。可以更改您用于访问互联网的IP地址。例如，如果您所在的国家不支持[ChatGPT](https://chatgpt.com/)，可以使用这款软件。Karing类似于V2rayNG、[Sing-Box](https://sing-box.info/zh)、Clash for Windows、[Clash.Meta](https://github.com/MetaCubeX/ClashMetaForAndroid)、[Hiddify](https://hiddify.me/zh)、[V2Box](https://v2box.pro/zh)、[Shadowrocket](https://shadowrocket.ink/zh)、[Stash](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349)、[Surge](https://github.com/Jounce/Surge)、[mahsang](https://mahsang.pro)、[nekobox](https://nekobox.info/zh)、[happ](https://happ-vpn.dev/zh)等，但它具有许多新功能，可以在互联网上隐藏您的身份，速度比**VPN**更快。如果您需要更稳定和安全的网络环境，请使用付费网络节点。Karing几乎支持所有网络代理协议，如Shadowrockets、Vmess、Vless、Reality、Trojan、Hysteria2等协议
 
 ![nongfu1009.jpg](https://karing.biz/img/nongfu1009.jpg)
 
