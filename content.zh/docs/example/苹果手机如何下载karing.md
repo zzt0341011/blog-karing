@@ -4,20 +4,30 @@
 
 ![karing-1004.jpg](https://karing.biz/img/karing-1004.jpg)
 
-### 海外共享苹果账号--最后更新时间：2026年10月02日
+### 海外共享苹果账号--最后更新时间：2026年11月26日
 
 - 友情提示，有些id可能不能使用，更换即可
 - 下载完应用以后，请马上退出苹果账号
 - 请务必登录苹果商店，不要在设置里面登录
 
 ```
-15994156588@163.com ---- SUEuw7tKcE
-13999501997@163.com ---- Yutp577w8Y
-15906149988@163.com ---- SAPgcuG2Hr
-tieshamorwaywi6420@gmail.com ---- 6ZRcWustJ4
-david7zksmunoz@hotmail.com ---- TzTx3!zd
-jy359840651@163.com ---- Dd1927013
-18975171775@163.com ---- 9N45CKGCgT
+| 账号 (Email) | 密码 (Password) |
+| --- | --- |
+| VedderEarlrbpjhf@gmail.com | 4PdNahXmqR |
+| 1578009387@qq.com | xcP1Y2YA1k |
+| 15312934006@163.com | FxYR3gGqvZ |
+| quodonnell@gmail.com | Dd10096da |
+| qgb477203@163.com | cZK7zCHkFF |
+| jyvqvepn475@163.com | TDvU2c8Yw9Qr |
+| 13903700260@163.com | auNnFN11v3 |
+| 15994156588@163.com | SUEuw7tKcE |
+| 13999501997@163.com | Yutp577w8Y |
+| 15906149988@163.com | SAPgcuG2Hr |
+| tieshamorwaywi6420@gmail.com | 6ZRcWustJ4 |
+| david7zksmunoz@hotmail.com | TzTx3!zd |
+| jy359840651@163.com | Dd1927013 |
+| 18975171775@163.com | 9N45CKGCgT |
+| vgilesgh42@gmail.com | 4HWwRkya6B |
 ```
 
 ### 使用方法看图
